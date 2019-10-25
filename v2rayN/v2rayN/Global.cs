@@ -8,11 +8,11 @@ namespace v2rayN
         /// <summary>
         /// 更新链接
         /// </summary>
-        public const string UpdateUrl = @"https://github.com/2dust/v2rayN/releases";
+        public const string UpdateUrl = @"https://www.google.com/";
         /// <summary>
         /// 关于链接
         /// </summary>
-        public const string AboutUrl = @"https://github.com/2dust/v2rayN";
+        public const string AboutUrl = @"https://www.google.com/";
 
         /// <summary>
         /// SpeedTestUrl
@@ -28,7 +28,7 @@ namespace v2rayN
         /// <summary>
         /// PromotionUrl
         /// </summary>
-        public const string PromotionUrl = @"https://1.2345345.xyz/ads.html";
+        public const string PromotionUrl = @"https://www.google.com/";
 
         /// <summary>
         /// 本软件配置文件名
